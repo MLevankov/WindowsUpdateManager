@@ -1,4 +1,4 @@
-# WindowsUpdateManager 1.0
+# WindowsUpdateManager
 Программа для отключения обновлений Windows. Сделано на C++
 
 # Чего интересного?!
